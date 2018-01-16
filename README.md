@@ -6,7 +6,7 @@
 ```
 gem 'rspec-rails', '~> 3.7'
 gem 'database_cleaner', '~> 1.6', '>= 1.6.2'
-gem 'factory_girl', '~> 4.9'
+gem 'factory_bot', '~> 4.8', '>= 4.8.2'
 ```
 
 3. Inside `:test` add:
